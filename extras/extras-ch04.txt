@@ -1,0 +1,14 @@
+
+## Η περίπτωση του Arduino
+
+![](cs-arduino.md){.include}
+
+## Η περίπτωση του Reactable
+
+![](cs-reactable.md){.include}
+
+## Σύντομη βιογραφία του Bill Atkinson
+
+![](bio-atkinson.md){.include}
+
+## Βιβλιογραφία

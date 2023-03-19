@@ -1,0 +1,14 @@
+
+## Η περίπτωση του Xerox Alto
+
+![](cs-alto.md){.include}
+
+## Η περίπτωση του ερευνητικού κέντρου Xerox PARC
+
+![](cs-parc.md){.include}
+
+## Σύντομη βιογραφία του Alan Kay
+
+![](bio-kay.md){.include}
+
+## Βιβλιογραφία

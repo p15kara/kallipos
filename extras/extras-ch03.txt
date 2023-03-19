@@ -1,0 +1,14 @@
+
+## Η περίπτωση του Apple iPod
+
+![](cs-ipod.md){.include}
+
+## Η περίπτωση των καθημερινών πραγμάτων
+
+![](cs-poet.md){.include}
+
+## Σύντομη βιογραφία του Larry Tesler
+
+![](bio-tesler.md){.include}
+
+## Βιβλιογραφία

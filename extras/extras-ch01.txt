@@ -1,0 +1,13 @@
+## Η περίπτωση του Minecraft
+
+![](cs-minecraft.md){.include}
+
+## Η περίπτωση του Xerox Star
+
+![](cs-star.md){.include}
+
+## Σύντομη βιογραφία του Ivan Sutherland
+
+![](bio-sutherland.md){.include}
+
+## Βιβλιογραφία
