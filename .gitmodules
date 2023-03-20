@@ -1,0 +1,21 @@
+[submodule "figures"]
+	path = figures
+	url = https://github.com/p15kara/_gallery
+[submodule "text"]
+	path = text
+	url = https://github.com/p15kara/text.git
+[submodule "bibliography"]
+	path = bibliography
+	url = https://github.com/p15kara/bibliography.git
+[submodule "images"]
+	path = images
+	url = https://github.com/p15kara/images.git
+[submodule "organization-notes"]
+	path = organization-notes
+	url = https://github.com/p15kara/organization-notes.git
+[submodule "quotes"]
+	path = quotes
+	url = https://github.com/p15kara/_quotes.git
+[submodule "extras"]
+	path = extras
+	url = https://github.com/p15kara/extras.git
